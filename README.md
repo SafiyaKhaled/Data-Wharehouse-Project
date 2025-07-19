@@ -31,3 +31,10 @@ fact_sales → Contains transactional sales data.
 Relationships:
 fact_sales.customer_key → joins with dim_customers.customer_key
 fact_sales.product_key → joins with dim_products.product_key
+
+📄 License
+This project is for educational and non-commercial purposes only.
+The dataset used in this project was originally shared by Baraa Khatib for training and learning purposes.
+
+If you are the original creator and would like the data removed or credited differently, please feel free to reach out.
+
